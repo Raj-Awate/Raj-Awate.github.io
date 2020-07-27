@@ -8,14 +8,14 @@ body{
 
 
 #header{
-    width: 100%;
+    width: auto;
     height: 50px;
-    padding: 20px 20% 10px 35%;
+    padding: 20px 30% 10px 30%;
     background-color:#000;
     color: rebeccapurple;
-    float: centre;
     font-size: 30px;
     font-weight: bold;
+    text-align: center;
 }
 a
 {
